@@ -1,5 +1,6 @@
 ## Mtaias lopez NC 0117
 ## operacion basica con open cv
+![alt text](image-1.png)
 ![alt text](image-15.png)
 ## cuando no puede cargar la imagen
 # 1. LECTURA DE LA IMAGEN DESDE LA CARPETA
